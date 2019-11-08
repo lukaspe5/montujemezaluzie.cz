@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="charsets">
+      <CLASSES>
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/charsets.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/deploy.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/ext/dnsns.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/ext/localedata.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/ext/sunjce_provider.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/ext/sunmscapi.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/javaws.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/jce.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/jsse.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/management-agent.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/plugin.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/resources.jar!/" />
+        <root url="jar://C:/Java/jdk1.6.0/jre/lib/rt.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="jar://C:/Java/jdk1.6.0/jre/lib/management-agent.jar!/" recursive="false" />
+      <jarDirectory url="jar://C:/Java/jdk1.6.0/jre/lib/resources.jar!/" recursive="false" />
+    </library>
+  </component>
+</project>
