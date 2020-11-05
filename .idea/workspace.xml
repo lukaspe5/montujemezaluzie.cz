@@ -1,14 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb9b840c-a6cd-4722-99b1-45c843b8b44a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/about/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/overlay/HeroOverlaySevice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/overlay/HeroOverlayWhy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/map/GoogleContactMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/map/LeafletMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/map/MapPopupContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/ModalContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/SimpleModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/NavBarLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/SectionNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceBlinds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceEzs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceGarageDoor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceJalousie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/ServiceSmartHome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/montujemezaluzie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/ColorSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/DefaultTheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/montuje-zaluzie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/montujeme-zaluzie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1TLTYn8ONIcULLtpQtZf8fchhVT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Java/jdk1.6.0/jre/lib/rt.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\Navbar" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\services" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\hero" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\services" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\hero\overlay" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src\components\map" />
+      <recent name="C:\Users\lukas\IdeaProjects\montuje-zaluzie\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -22,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.npm start">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -33,5 +142,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb9b840c-a6cd-4722-99b1-45c843b8b44a" name="Default Changelist" comment="" />
+      <created>1573238425585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573238425585</updated>
+      <workItem from="1573238430699" duration="4754000" />
+      <workItem from="1573243230230" duration="5829000" />
+      <workItem from="1573249481674" duration="3232000" />
+      <workItem from="1573326704346" duration="12024000" />
+      <workItem from="1573384015606" duration="2781000" />
+      <workItem from="1573414106188" duration="14394000" />
+      <workItem from="1573499576182" duration="5762000" />
+      <workItem from="1573585672608" duration="20083000" />
+      <workItem from="1573633668830" duration="7000" />
+      <workItem from="1573675840996" duration="6417000" />
+      <workItem from="1573755202281" duration="8304000" />
+      <workItem from="1573800555911" duration="892000" />
+      <workItem from="1573842690903" duration="14915000" />
+      <workItem from="1573970957586" duration="710000" />
+      <workItem from="1574005024110" duration="2903000" />
+      <workItem from="1574059866760" duration="70000" />
+      <workItem from="1574537176665" duration="10027000" />
+      <workItem from="1574669690431" duration="268000" />
+      <workItem from="1578724726295" duration="2789000" />
+      <workItem from="1578902130887" duration="171000" />
+      <workItem from="1604575834706" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
