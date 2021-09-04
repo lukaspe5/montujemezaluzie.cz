@@ -83,6 +83,23 @@ export const Footer = withTheme(() => {
                     <img className='topWrapper__logo' src='img/montujemezaluzie-white.png'/>
                 </div>
                 <div className="topWrapper__center">
+                <ul className='topWrapper__list'>
+                        <li>
+                            Jakub Šára
+                        </li>
+                        <li>
+                            <a className='topWrapper__iconWithText' href='tel:+420604421308'>
+                                <PhoneOutlinedIcon className='topWrapper__icon'/>
+                                <div>+420 604 421 308</div>
+                            </a>
+                        </li>
+                        <li>
+                            <a className='topWrapper__iconWithText' href='mailto:obchod@amrif.cz'>
+                                <MailOutlineOutlinedIcon className='topWrapper__icon'/>
+                                <div>obchod@amrif.cz</div>
+                            </a>
+                        </li>
+                    </ul>
                     <ul className='topWrapper__list'>
                         <li>
                             Lukáš Hrbek
